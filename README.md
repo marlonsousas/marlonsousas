@@ -1,6 +1,6 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=12CA41&width=700&lines=physics+student%2C+diving+into+astrophysics+and+AI" alt="Typing SVG" /></a>
- <img src="https://imgur.com/a/17oGCe8" width="500" align="left">
+ <img src="https://i.imgur.com/8FwUyfA.png" width="500" align="left">
   <p float="left">
     <samp>
              I hold a degree in Cybersecurity and am currently pursuing a Bachelor’s in Physics at USP, with a focus on Computer Science and Artificial Intelligence.<br>
