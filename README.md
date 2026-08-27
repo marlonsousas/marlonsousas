@@ -85,10 +85,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlonsousas&theme=dracula&border=50FA7B&hide_border=false" alt="Typing SVG" />
-  
-</div>
 
 <br>
 
