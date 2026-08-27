@@ -87,6 +87,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marlonsousas&theme=dracula&border=50FA7B&hide_border=false" alt="GitHub Streak" />
+  [<img src="https://raw.githubusercontent.com/marlonsousas/marlonsousas/output/github-contribution-grid-snake.svg" alt="Snake animation" />](https://github-readme-streak-stats.herokuapp.com/?user=marlonsousas&theme=dracula&border=50FA7B&hide_border=false)
+  
 </div>
 
 <br>
